@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chinchuprasanth
+- 👋 Hi, I’m @Niharikaprasanth
 - 👀 I’m interested in Devoloping New things
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on ...
